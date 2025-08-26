@@ -38,6 +38,5 @@ A implementação destes três serviços AWS na Abstergo Industries tem como esp
 
 **Assinatura do Responsável pelo Projeto:**
 
-Ana Julia Arantes Ramos
-
 ![Assinatura de Ana Julia Arantes Ramos](./assinatura.png)
+Ana Julia Arantes Ramos
