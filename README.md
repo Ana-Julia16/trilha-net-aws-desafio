@@ -1,1 +1,1 @@
-# trilha-net-as-desafio
+# trilha-net-aws-desafio
