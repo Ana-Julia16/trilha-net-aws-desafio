@@ -30,3 +30,15 @@ Foram selecionados três serviços AWS que, em conjunto, geram um impacto signif
 3.  **AWS Lambda:** Para executar tarefas de rotina sem a necessidade de manter servidores ativos 24/7, pagando apenas por tempo de execução.
 
 ## 📂 Estrutura do Repositório
+/
+|-- relatorio-aws.md     # O relatório principal do projeto.
+|-- assets/              # Pasta para arquivos de suporte (imagens, etc.).
+|   |-- assinatura-removebg-preview.png   # Imagem da assinatura utilizada no relatório.
+|-- README.md            # Este arquivo de apresentação.
+
+
+## 🚀 Como Visualizar o Projeto
+
+Para visualizar o relatório final, basta acessar o arquivo abaixo:
+
+-   📄 **[RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS](./relatorio-aws.md)**
