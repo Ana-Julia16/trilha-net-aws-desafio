@@ -40,4 +40,4 @@ A implementação destes três serviços AWS na Abstergo Industries tem como esp
 
 Ana Julia Arantes Ramos
 
-![Assinatura de Ana Julia Arantes Ramos](https://drive.google.com/file/d/1fFLQpGNBXbbLcEtoIgsD67jIHJIYwHUn/view?usp=sharing)
+![Assinatura de Ana Julia Arantes Ramos](https://drive.google.com/file/d/1fFLQpGNBXbbLcEtoIgsD67jIHJIYwHUn/view?usp=drive_link)
